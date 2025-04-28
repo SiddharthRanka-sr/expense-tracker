@@ -25,34 +25,29 @@ Installation
 To set up the project locally, follow these steps:
 
 1. Clone the repository
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/your-username/personal-finance-visualizer.git
 cd personal-finance-visualizer
+```
 2. Install dependencies
-bash
-Copy
-Edit
+```bash
 npm install
+```
 3. Configure MongoDB
 Ensure that you have a MongoDB instance running locally or use a cloud service like MongoDB Atlas.
 
 Create a .env.local file at the root of your project.
 
 Add your MongoDB connection string in the .env.local file:
-
-bash
-Copy
-Edit
+```bash
 MONGODB_URI=your_mongodb_connection_string
+```
 4. Run the project locally
 Once dependencies are installed and MongoDB is set up, you can run the app locally:
 
-bash
-Copy
-Edit
+```bash
 npm run dev
+```
 This will start the application on http://localhost:3000.
 
 Contributing

@@ -24,6 +24,10 @@ A modern web application designed to help users visualize their income and expen
 
 *State Management*: Context API (for global state management)
 
+# Demo
+
+[Watch Demo Video Here](https://youtu.be/2ce-ic3RlTU)
+
 # Installation
 To set up the project locally, follow these steps:
 

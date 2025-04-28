@@ -4,26 +4,27 @@ A modern web application designed to help users visualize their income and expen
 
 # Features
 
-*Transaction Tracking:* Track both income and expenses.
+*Transaction Tracking*: Track both income and expenses.
 
 *Categorization*: Categorize transactions and view them in a structured dashboard.
 
-Budgeting: Set budgets, compare them with actual spending, and get insights.
+*Budgeting*: Set budgets, compare them with actual spending, and get insights.
 
-Financial Visualization: View income and expenses through interactive charts (e.g., bar charts for expenses).
+*Financial Visualization*: View income and expenses through interactive charts (e.g., bar charts for expenses).
 
-Tech Stack
-Frontend: React, Next.js
+# Tech Stack
 
-Charting: Recharts (for interactive financial charts)
+*Frontend*: React, Next.js
 
-Backend: MongoDB (NoSQL database)
+*Charting*: Recharts (for interactive financial charts)
 
-Styling: Styled-components (for modern, reusable CSS styling)
+*Backend*: MongoDB (NoSQL database)
 
-State Management: Context API (for global state management)
+*Styling*: Styled-components (for modern, reusable CSS styling)
 
-Installation
+*State Management*: Context API (for global state management)
+
+# Installation
 To set up the project locally, follow these steps:
 
 1. Clone the repository

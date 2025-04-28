@@ -1,10 +1,12 @@
-Personal Finance Visualizer
+# Personal Finance Visualizer
+
 A modern web application designed to help users visualize their income and expenses through interactive charts. This app provides an intuitive way to manage and track personal finances, offering features like transaction tracking, budgeting, and financial insights.
 
-Features
-Transaction Tracking: Track both income and expenses.
+# Features
 
-Categorization: Categorize transactions and view them in a structured dashboard.
+*Transaction Tracking:* Track both income and expenses.
+
+*Categorization*: Categorize transactions and view them in a structured dashboard.
 
 Budgeting: Set budgets, compare them with actual spending, and get insights.
 
